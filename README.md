@@ -4,7 +4,7 @@ The document of a Forge Mod - [https://github.com/InfinityStudio/FoodCraft](Food
 ## Before Contributing
 Please, use *ATX formatting* for all Markdown files.
 
-The Markdown's filename must to be named like this: ```<Chapter ID> - <Chapter Name(In English)>.md
+The Markdown's filename must to be named like this: ```<Chapter ID> - <Chapter Name(In English)>.md```
 
 Images naming: ```<Chapter ID> - <Image ID> - <Image Name(In English too)>.png```
 
